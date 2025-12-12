@@ -25,8 +25,8 @@ Advanced Minecraft Server Status Monitor with Discord Bot Integration, Real-time
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/minecraft-server-status-monitor.git
-cd minecraft-server-status-monitor
+git clone https://github.com/hopingboyz/mc-status.git
+cd mc-status
 
 Install dependencies:
 
@@ -35,7 +35,7 @@ npm install
 Configure environment variables:
 
 bash
-cp .env.example .env
+cp example.env .env
 # Edit .env file with your configuration
 Start the application:
 
